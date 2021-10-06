@@ -1,8 +1,7 @@
 -  Hi, I’m @Abhidart
--  I’m interested in App development, Artificial intelligence!!!
--  I’m currently learning App development!!
--  I’m looking to collaborate in ......
--  reach me @abhimanyuunni2002@gmail.com
+-  interested in App development, Artificial intelligence!!!
+-  currently learning App development!!
+-  looking to collaborate in ......
 
 <!---
 Abhidart/Abhidart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
